@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hafsakhan09090/hafsakhan09090/main/banner.svg"><img src="https://raw.githubusercontent.com/hafsakhan09090/hafsakhan09090/main/banner_light.svg" alt="Hafsa Khan — CS undergraduate building AI, computer vision and full-stack products" width="900"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hafsakhan09090/hafsakhan09090/main/banner.gif"><img src="https://raw.githubusercontent.com/hafsakhan09090/hafsakhan09090/main/banner_light.svg" alt="Hafsa Khan — CS undergraduate building AI, computer vision and full-stack products" width="900"/></picture>
 
 <br/>
 
